@@ -1,9 +1,15 @@
 To run the website you need to:
+
 Install NodeJS and MySQL Workbench.
+
 After installing use the command "node -v" to check the version.
+
 Use "npm init -y" to initial.
+
 Then use "npm install express mysql2 body-parser uuid".
+
 Then for creating table use "mysql -u root -p".
+
 In the shell write this: 
 "CREATE DATABASE login_app;
 
@@ -16,5 +22,7 @@ CREATE TABLE users (
 );
 
 INSERT INTO users (email, password) VALUES ('test@example.com', '1234');"
+
 Then "exit".
+
 After completeing all the steps for running the website use "node server.js".
