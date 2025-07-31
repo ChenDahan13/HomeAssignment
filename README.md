@@ -21,7 +21,7 @@ CREATE TABLE users (
   password VARCHAR(255) NOT NULL
 );
 
-INSERT INTO users (email, password) VALUES ('test@example.com', '1234');"
+INSERT INTO users (email, password) VALUES ('test@example.com', '1234');".
 
 Then "exit".
 
