@@ -25,4 +25,6 @@ INSERT INTO users (email, password) VALUES ('test@example.com', '1234');".
 
 Then "exit".
 
+For connecting the database in the server.js file the user and password needed to be change for your own.
+
 After completeing all the steps for running the website use "node server.js".
