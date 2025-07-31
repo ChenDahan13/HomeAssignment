@@ -28,3 +28,5 @@ Then "exit".
 For connecting the database in the server.js file the user and password needed to be changed for your own.
 
 After completeing all the steps for running the website use "node server.js".
+
+Testing the website is with the email: test@example.com and password 1234.
